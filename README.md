@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sayantan Das and I'm a computer science student and computer technician from chandannagar, West Banagal</h2>
+[<h2 align="left">Hi 👋! My name is Sayantan Das and I'm a computer science student and computer technician from chandannagar, West Banagal</h2>
 
 ###
 
@@ -45,3 +45,4 @@
 </div>
 
 ###
+](https://www.eduprolearninghub.com/style/index.gif)https://www.eduprolearninghub.com/style/index.gif
